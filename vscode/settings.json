@@ -1,0 +1,61 @@
+{
+  "yaml.schemas": {
+    "file:///Users/tiennguyen/.vscode/extensions/atlassian.atlascode-3.0.4/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+  },
+  "editor.inlineSuggest.enabled": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "prettier.trailingComma": "none",
+  "prettier.arrowParens": "avoid",
+  "editor.autoClosingDelete": "always",
+  "turboConsoleLog.addSemicolonInTheEnd": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "atlascode.jira.lastCreateSiteAndProject": {
+    "siteId": "",
+    "projectKey": ""
+  },
+  "[html]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "cSpell.userWords": ["NRIC", "Sendgrid", "unutilised", "upsert", "Utilised"],
+  "security.workspace.trust.untrustedFiles": "open",
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": true,
+    "scminput": false,
+    "yaml": true
+  },
+  "turboConsoleLog.includeFileNameAndLineNum": false,
+  "turboConsoleLog.insertEmptyLineAfterLogMessage": true,
+  "turboConsoleLog.insertEnclosingClass": false,
+  "turboConsoleLog.logMessagePrefix": "[DEBUG]",
+  "turboConsoleLog.insertEnclosingFunction": false,
+  "vscode_custom_css.imports": [
+    "file:///Users/tiennguyen/Documents/extensions/vscode/color.css"
+  ],
+  "liveServer.settings.donotShowInfoMsg": true,
+  "debug.javascript.autoAttachFilter": "disabled",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.tabSize": 2,
+  "workbench.colorTheme": "Default Dark+",
+  "editor.accessibilitySupport": "off",
+  "explorer.autoReveal": "focusNoScroll",
+  "diffEditor.maxComputationTime": 0,
+  "git.statusLimit": 5000,
+  "window.zoomLevel": 1
+}
