@@ -1,6 +1,6 @@
 {
   "yaml.schemas": {
-    "file:///Users/tiennguyen/.vscode/extensions/atlassian.atlascode-3.0.4/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    "file:///Users/tiennguyen/.vscode/extensions/atlassian.atlascode-3.0.9/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
   },
   "editor.inlineSuggest.enabled": true,
   "[typescript]": {
@@ -27,7 +27,6 @@
   "[json]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
-  "diffEditor.ignoreTrimWhitespace": false,
   "bracket-pair-colorizer-2.depreciation-notice": false,
   "cSpell.userWords": ["NRIC", "Sendgrid", "unutilised", "upsert", "Utilised"],
   "security.workspace.trust.untrustedFiles": "open",
@@ -57,5 +56,32 @@
   "explorer.autoReveal": "focusNoScroll",
   "diffEditor.maxComputationTime": 0,
   "git.statusLimit": 5000,
-  "window.zoomLevel": 1
+  "vs-kubernetes": {
+    "vscode-kubernetes.helm-path.mac": "/Users/tiennguyen/.vs-kubernetes/tools/helm/darwin-arm64/helm"
+  },
+  "find-it-faster.general.killTerminalAfterUse": true,
+  "find-it-faster.advanced.disableStartupChecks": true,
+  "find-it-faster.general.hideTerminalAfterFail": false,
+  "find-it-faster.general.hideTerminalAfterSuccess": false,
+  "find-it-faster.general.clearTerminalAfterUse": false,
+  "find-it-faster.general.openFileInPreviewEditor": true,
+  "workbench.editor.enablePreviewFromQuickOpen": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.lineNumbers": "relative",
+  "vim.changeWordIncludesWhitespace": false,
+  "vim.camelCaseMotion.enable": true,
+  "jestrunner.jestCommand": "npm run test:local --",
+  "jestrunner.configPath": "./jest.local.json",
+  "js/ts.implicitProjectConfig.experimentalDecorators": true,
+  "todohighlight.keywords": [
+    "NOTE:"
+  ],
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "nxConsole.showNodeVersionOnStartup": false,
+  "window.zoomLevel": -1
 }
